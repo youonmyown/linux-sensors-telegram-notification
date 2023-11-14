@@ -14,5 +14,6 @@ Add this to the end of the file:
 0 * * * * /usr/bin/python /path_to_file/main.py
 ```
 The script will run once per hour at 0 minutes
+
 Use this service to change your scheduler:
 https://crontab.guru/
